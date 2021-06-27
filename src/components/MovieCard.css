@@ -1,0 +1,12 @@
+.movie-card {
+  background-color: rgb(99, 97, 95);
+  border-radius: 3px;
+  box-shadow: 3px 3px 5px rgba(17, 7, 7, 0.1);
+  overflow: hidden;
+  margin: 1rem;
+  width: 300px;
+}
+
+.movie-card img {
+  max-width: 100%;
+}

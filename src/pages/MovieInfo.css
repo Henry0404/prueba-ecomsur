@@ -1,0 +1,19 @@
+.info-container {
+  display: flex;
+}
+
+.info-container .image {
+  margin: 20px;
+}
+
+.info-container .info .genres {
+  color: red;
+}
+
+.suggested-movies > div {
+  margin: 8px;
+}
+
+.movie-info h2 {
+  margin: 20px;
+}
